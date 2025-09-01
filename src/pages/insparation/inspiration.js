@@ -8,7 +8,6 @@ import { Container } from "@mui/material";
  import Typography from "@mui/material/Typography";
 export default function Inspiration () {
   const [line, setLine] = useState("");
-  const [count , setcount] = useState(0);
   const [item , setItem] = useState([])
 
 
